@@ -3,6 +3,7 @@
 
 #include <cstdint>
 #include <string_view.h>
+#include <common.h>
 
 namespace ara::log {
 
